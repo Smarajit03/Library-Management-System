@@ -1,0 +1,3 @@
+MemberID,Name,PasswordHash,Email,JoinDate
+1001,Ananya Singh,$2b$12$abc123...,ananya@mail.com,2025-05-10
+1002,Rahul Sharma,$2b$12$def456...,rahul@mail.com,2025-06-15
